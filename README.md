@@ -1,4 +1,4 @@
 # Google-LandingPage
 You can view the project via this link
 
-https://gunduzbetul.github.io/Google__1/
+https://gunduzbetul.github.io/Google-LandingPage/
